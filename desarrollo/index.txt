@@ -1,0 +1,15 @@
+Como parte de los materiales del curso, se presenta el tutorial de construcción de una aplicación con Java, el cual es una guía paso a paso para implementar el caso de uso “Administrar datos de pacientes” que se ha presentado como ejemplo dentro del desarrollo del programa. 
+El tutorial está dividido en 8 sesiones que aportan diferentes componentes a la construcción de la aplicación distribuidas de la siguiente manera:
+
+    Sesión 1: Construyendo la base de datos
+    Sesión 2: Desarrollando la Interfaz Gráfica de Usuario (GUI)
+    Sesión 3: Creando el Modelo de la Aplicación
+    Sesión 4: Enlazando con el Controlador
+    Sesión 5: Probando el Modelo Vista Controlador MVC
+    Sesión 6: Accediendo a la Base de Datos con JDBC
+    Sesión 7: Accediendo a la Base de Datos con JPA
+    Sesión 8: Generando reportes impresos 
+    
+    Para evidenciar su desarrollo deberá elaborar un informe donde documente en forma gráfica los resultados que va obteniendo sesión por sesión, incluyendo el análisis de los aspectos que considera más importantes de cada uno de ellos.
+
+Como complemento envíe el código final, comprimido en carpeta .ZIP con el nombre Tutorial_Java_NombreCompleto.ZIP, donde NombreCompleto corresponde a su nombre. El informe debe enviarse en formato PDF, en el vínculo que encontrará disponible para ello. 
