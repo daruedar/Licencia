@@ -13,3 +13,4 @@ El tutorial está dividido en 8 sesiones que aportan diferentes componentes a la
     Para evidenciar su desarrollo deberá elaborar un informe donde documente en forma gráfica los resultados que va obteniendo sesión por sesión, incluyendo el análisis de los aspectos que considera más importantes de cada uno de ellos.
 
 Como complemento envíe el código final, comprimido en carpeta .ZIP con el nombre Tutorial_Java_NombreCompleto.ZIP, donde NombreCompleto corresponde a su nombre. El informe debe enviarse en formato PDF, en el vínculo que encontrará disponible para ello. 
+¨************************Entregada*********************
